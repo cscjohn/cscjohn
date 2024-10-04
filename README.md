@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cscjohn
 - 👀 I’m interested in learning to code and trying to code.
-- 🌱 I’m currently learning CSC20, 28, 35.
+- 🌱 I’m currently learning CSC 130 & 131.
 - 💞️ I’m looking to collaborate on labs, assignments, and programming assignments.
-- 📫 How to reach me leaving blank. I don't want random spam.
+- 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: zzzzzz
 
